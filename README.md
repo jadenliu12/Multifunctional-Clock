@@ -30,13 +30,16 @@ Feature:
 The multifunctional clock consists of 3 main circuits, which are the LED circuit, 7-segment display circuit and buzzer circuit.  
 
 ### LED Circuit
-image here  
+![LED_circuit](/image/LED_circuit.png)  
 
 ### 7-Segment Display Circuit
-image here  
+![7-segment_circuit](/image/7-segment_circuit.png)  
 
 ### Buzzer Circuit
-image here  
+![Buzzer_circuit](/image/buzzer_circuit.png)  
 
 ## Machine's State Flowchart
-image here  
+![FSM](/image/FSM.png)  
+
+## Final Product
+![Final](/image/Final.JPG)  
