@@ -3,8 +3,8 @@
 ## Basic Informations  
 Worked together with: Michelle Novenda Hartono  
 Function: A clock that can be used to tell the current day, time and date with several other features  
-Language: verilog 
-FPGA Board: Basys 3 Artix-7
+Language: verilog  
+FPGA Board: Basys 3 Artix-7  
 Feature:  
 - Day tracker
 - Shows current time and date
