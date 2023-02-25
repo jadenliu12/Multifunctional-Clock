@@ -1,4 +1,4 @@
-# Multifunctional-clock  
+# Multifunctional Clock  
 
 ## Basic Informations  
 Worked together with: Michelle Novenda Hartono  
